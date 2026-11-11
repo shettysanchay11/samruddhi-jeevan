@@ -12,7 +12,7 @@ whatsapp: "917625038036",
   shareMembership: 2500,
   address: "No. 39, Jeevan Samruddhi, 1st Cross, Vinayaknagar, Opp. Tatwadarsha Hospital, Vidyanagar, Hubballi – 580021",
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=No.+39+Jeevan+Samruddhi+1st+Cross+Vinayaknagar+Tatwadarsha+Hospital+Vidyanagar+Hubballi+580021",
-  whatsapp: "917625083086",
+  
   mapEmbedUrl: "https://www.google.com/maps?q=No.+39+Jeevan+Samruddhi+1st+Cross+Vinayaknagar+Tatwadarsha+Hospital+Vidyanagar+Hubballi+580021&output=embed",
 };
 export const deposits = {
